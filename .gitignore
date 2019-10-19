@@ -2,7 +2,6 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/C++/VS/comm_protocols/x64/Release
-/C++/VS/comm_protocols/x64/Debug
-/C++/VS/comm_protocols/Release
-/C++/VS/comm_protocols/Debug
+/C++/VS/Debug
+/C++/VS/Release
+/C++/VS/x64
